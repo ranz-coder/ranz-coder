@@ -17,27 +17,19 @@ Welcome to my GitHub profile! I am a full-stack developer with a strong focus on
 ### ⌗ Works
 
 <p>
-<!-- Core Language & Frameworks -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
 <img src="https://cdn.simpleicons.org/nodedotjs" title="NodeJS" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" title="Vite" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" title="Socket.IO" width="40" height="40"/>
-
-<!-- Databases -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQLite" width="40" height="40"/>
 <img src="https://cdn.simpleicons.org/firebase" title="Firebase" width="40" height="40"/>
-
-<!-- Infra & DevOps -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title="Nginx" width="40" height="40"/>
 <img src="https://cdn.simpleicons.org/cloudflare" title="Cloudflare" width="40" height="40"/>
-
-<!-- Linux Distros -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/armbian" title="Armbian" width="40" height="40"/>
 <img src="https://cdn.simpleicons.org/debian" title="Debian" width="40" height="40"/>
 <img src="https://cdn.simpleicons.org/ubuntu" title="Ubuntu" width="40" height="40"/>
 <img src="https://cdn.simpleicons.org/linuxmint" title="Linux Mint" width="40" height="40"/>
