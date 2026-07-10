@@ -1,39 +1,43 @@
 # Hi there, I'm ranz-coder 👋
 
-Welcome to my GitHub profile! I am a passionate developer who enjoys building automations, managing servers, and constantly exploring new technologies. 
+Welcome to my GitHub profile! I am a versatile developer with a strong passion for building web applications, crafting automated bots, and managing servers. 
+
+---
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on automating messaging systems like WhatsApp bots.
-- 🌱 I’m always learning more about efficient web administration, secure tunneling, and server management.
-- ⚡ **Fun fact:** I enjoy optimizing home lab environments on low-resource hardware (like running Armbian on STBs) and tinkering with technical Minecraft server scripting.
+- 🤖 **Bot Automation:** I develop and maintain automated messaging systems, specifically WhatsApp bots using **Node.js** and the **Baileys** library.
+- 🌐 **Web Development:** I actively build fast and modern web applications using **React.js** and **Vite**, alongside other frameworks.
+- 🎮 **Server Management:** I create and manage **Minecraft servers**, handling everything from the infrastructure to technical in-game mechanics.
+- 💻 **Continuous Learner:** Always exploring new frameworks and tools across different programming ecosystems to optimize my workflows.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
-Here are the technologies and tools I work with:
+#### 💻 Programming & Scripting
+- **JavaScript** – Core language for my web and bot projects.
+- **Python** – Utility scripts, automation, and backend logic.
+- **PHP** – Server-side web development and dynamic routing.
+- **C++** – High-performance logic and system-level programming.
+- **HTML5 & CSS3** – Structuring and styling web pages.
 
-**Programming & Markup Languages**
-- JavaScript
-- HTML5 & CSS3
-- C++
-- Python
-- PHP
+#### 🎨 Frontend Development
+- **React.js** – Building interactive user interfaces.
+- **Vite** – Fast build tool and development server for modern web projects.
 
-**Frameworks & Environments**
-- Node.js
+#### ⚙️ Backend & Automation
+- **Node.js** – Server environment (highly experienced with the **Baileys** framework for WA bots).
 
-**Databases**
-- MongoDB
-- PostgreSQL
-- MySQL
+#### 🗄️ Databases
+- **MongoDB** – Flexible, NoSQL document storage.
+- **PostgreSQL** – Advanced, scalable relational database.
+- **MySQL** – Reliable relational database for web applications.
 
-**Infrastructure, Hosting & Tools**
-- Nginx
-- Cloudflare Tunnels
-- cPanel / DirectAdmin
-- Linux Systems
+#### 🌐 Infrastructure & DevOps
+- **Nginx** – Reverse proxy and web server configuration.
+- **Cloudflare Tunnels** – Secure routing and ingress.
+- **Linux** – Server administration and home lab hosting.
 
 ---
 
@@ -44,4 +48,4 @@ Here are the technologies and tools I work with:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranz-coder&layout=compact&theme=radical)](https://github.com/ranz-coder)
 
 ---
-*Feel free to explore my repositories and reach out!*
+*Feel free to explore my repositories or reach out if you want to talk about React, bots, or Minecraft servers!*
