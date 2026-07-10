@@ -13,40 +13,20 @@ Welcome to my GitHub profile! I am a versatile developer with a strong passion f
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Works / Tech Stack
 
-#### 💻 Programming & Scripting
-- **TypeScript** – Strongly typed JavaScript for scalable web and bot projects.
-- **JavaScript** – Core language for my dynamic applications.
-- **Python** – Utility scripts, automation, and backend logic.
-- **PHP** – Server-side web development and dynamic routing.
-- **C++** – High-performance logic and system-level programming.
-- **HTML5 & CSS3** – Structuring and styling web pages.
-
-#### 🎨 Frontend Development
-- **React.js** – Building interactive user interfaces.
-- **Vite** – Fast build tool and development server for modern web projects.
-
-#### ⚙️ Backend & Automation
-- **Node.js** – Server environment (highly experienced with the **Baileys** framework for WA bots).
-
-#### 🗄️ Databases
-- **MongoDB** – Flexible, NoSQL document storage.
-- **PostgreSQL** – Advanced, scalable relational database.
-- **MySQL** – Reliable relational database for web applications.
-
-#### 🌐 Infrastructure & DevOps
-- **Nginx** – Reverse proxy and web server configuration.
-- **Cloudflare Tunnels** – Secure routing and ingress.
-- **Linux** – Server administration and home lab hosting.
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,vite,nodejs,py,php,cpp,html,css,mongo,postgres,mysql,linux,nginx,cloudflare&perline=8" alt="Tech Stack Icons" />
+  </a>
+</p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Stats
 
-![ranz-coder's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranz-coder&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranz-coder&layout=compact&theme=radical)](https://github.com/ranz-coder)
-
----
+<p align="left">
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=ranz-coder&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranz-coder&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+</p>
 *Feel free to explore my repositories or reach out if you want to talk about React, bots, or Minecraft servers!*
