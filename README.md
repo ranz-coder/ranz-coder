@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I am a versatile developer with a strong passion f
 ### 👨‍💻 About Me
 
 - 🤖 **Bot Automation:** I develop and maintain automated messaging systems, specifically WhatsApp bots using **Node.js** and the **Baileys** library.
-- 🌐 **Web Development:** I actively build fast and modern web applications using **React.js** and **Vite**, alongside other frameworks.
+- 🌐 **Web Development:** I actively build fast, modern, and type-safe web applications using **React.js**, **Vite**, and **TypeScript**.
 - 🎮 **Server Management:** I create and manage **Minecraft servers**, handling everything from the infrastructure to technical in-game mechanics.
 - 💻 **Continuous Learner:** Always exploring new frameworks and tools across different programming ecosystems to optimize my workflows.
 
@@ -16,7 +16,8 @@ Welcome to my GitHub profile! I am a versatile developer with a strong passion f
 ### 🛠️ Tech Stack & Skills
 
 #### 💻 Programming & Scripting
-- **JavaScript** – Core language for my web and bot projects.
+- **TypeScript** – Strongly typed JavaScript for scalable web and bot projects.
+- **JavaScript** – Core language for my dynamic applications.
 - **Python** – Utility scripts, automation, and backend logic.
 - **PHP** – Server-side web development and dynamic routing.
 - **C++** – High-performance logic and system-level programming.
