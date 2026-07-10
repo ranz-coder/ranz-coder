@@ -48,8 +48,8 @@ Welcome to my GitHub profile! I am a full-stack developer with a strong focus on
 ### ⌗ Stats
 
 <p align="left">
-  <img height="185" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ranz-coder&show_icons=true&include_all_commits=true&count_private=true&theme=dark#gh-dark-mode-only" alt="GitHub Stats" />&nbsp;
-  <img height="185" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ranz-coder&layout=compact&langs_count=8&theme=dark&#gh-dark-mode-only" alt="Top Langs" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ranz-coder&show_icons=true&include_all_commits=true&count_private=true&theme=dark#gh-dark-mode-only" alt="GitHub Stats" />&nbsp;
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ranz-coder&theme=dark&langs_count=8#gh-dark-mode-only" alt="Top Langs" />
 </p>
 
 ---
