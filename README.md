@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am a full-stack developer with a strong focus on
 
 ### ⌗ About Me
 
-- ⌗ **Bot Automation:** I develop and maintain automated messaging systems, specifically WhatsApp bots using **Node.js** and the **Baileys** library.
+- ⌗ **Bot Automation:** I develop and maintain automated messaging systems, specifically WhatsApp bots using **Node.js and neoxr** and the **Baileys** library.
 - ⌗ **Web Development:** I build fast, interactive, and modern web applications using **React.js** and **Vite**, backed by robust JavaScript logic.
 - ⌗ **Real-Time Apps:** Experienced in creating dynamic, real-time communication systems using **Socket.IO** and WebSockets.
 - ⌗ **Server Management:** I build and manage **Minecraft servers**, handling both in-game mechanics and hosting environments.
