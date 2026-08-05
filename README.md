@@ -62,14 +62,13 @@
 
 <p align="left">
   <a href="https://github.com/ranz-coder">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ranz-coder&repo=REPLACE_REPO_1&theme=dark" height="150" alt="repo 1"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ranz-coder&repo=js-spammers&theme=dark" height="150" alt="repo 1"/>
   </a>
   <a href="https://github.com/ranz-coder">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ranz-coder&repo=REPLACE_REPO_2&theme=dark" height="150" alt="repo 2"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ranz-coder&repo=wabot&theme=dark" height="150" alt="repo 2"/>
   </a>
 </p>
 
-> 💡 Ganti `REPLACE_REPO_1` / `REPLACE_REPO_2` dengan nama repo asli kamu supaya kartu pin-nya muncul (misal repo bot WA atau project React kamu).
 
 ---
 
