@@ -62,7 +62,7 @@
 
 <p align="left">
   <a href="https://github.com/ranz-coder">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ranz-coder&repo=js-spammers&theme=dark" height="150" alt="repo 1"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ranz-coder&repo=js-spammer&theme=dark" height="150" alt="repo 1"/>
   </a>
   <a href="https://github.com/ranz-coder">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ranz-coder&repo=wabot&theme=dark" height="150" alt="repo 2"/>
