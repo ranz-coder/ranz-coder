@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ptra 👋</h1>
+<h1 align="center">Hi, I'm Ranz 👋</h1>
 <h3 align="center">Full-Stack Developer • Bot Automation • Homelab Enthusiast</h3>
 
 <p align="center">
