@@ -26,7 +26,7 @@
 
 ### ❯_ EXECUTE: `./sysinfo.sh`
 
-```console
+```text
 user@ranz-coder:~$ neofetch --backend ascii --source custom _,met$$$$$gg.          USER       : Ranz ,g$$$$$$$$$$$$$$$P.       ROLE       : Full-Stack Developer \vert{} Bot Engineer \vert{} Pentester ,g$$P"     """Y$$.".        LOCATION   : Tasikmalaya, West Java, ID (Asia/Jakarta) ,$$P'              `$$$.     UPTIME     : 24/7 (Fueled by Caffeine & Code)
 ',$$P       ,ggs.     `$$b:   SHELL      : zsh / bash
 `d$$'     ,$P"'   .    $$$    KERNEL     : Linux (Armbian / Debian / Ubuntu)
