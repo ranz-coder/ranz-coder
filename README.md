@@ -72,8 +72,8 @@
 ### 📌 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/ranz-coder/js-spammer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ranz-coder&repo=js-spammer&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C" width="400" alt="repo 1"/>
+  <a href="https://github.com/ranz-coder/anti-ddos-mc">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ranz-coder&repo=anti-ddos-mc&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C" width="400" alt="repo 1"/>
   </a>
   <a href="https://github.com/ranz-coder/wabot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ranz-coder&repo=wabot&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C" width="400" alt="repo 2"/>
